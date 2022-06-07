@@ -1,4 +1,4 @@
-# cod4_modern_promod
+# Modern Promod v0.1.8.01 Beta
 In this modification, it is a completely new development. With a new menu interface and numerous new weapons.
 
 Modern Promod Readme
