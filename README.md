@@ -2,9 +2,13 @@
 In this modification, it is a completely new development. With a new menu interface and numerous new weapons.
 
 Modern Promod Readme
+
 (C) 2014 - 2022 DerStr1k3r.de
+
 https://derstr1k3r.de
+
 https://discord.gg/xg5mnYUWch
+
 
 Modern Promod is based on Modern Promod v0.1.6.25!
 
