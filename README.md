@@ -1,4 +1,4 @@
-# Modern Promod v0.1.8.01 Beta
+# Modern Promod v0.1.8.01 Beta 2
 In this modification, it is a completely new development. With a new menu interface and numerous new weapons.
 
 Modern Promod Readme
@@ -10,7 +10,7 @@ https://derstr1k3r.de
 https://discord.gg/xg5mnYUWch
 
 
-Download here: https://www.moddb.com/mods/modern-promod/downloads/modern-promod-v01801-beta
+Download here: https://derstr1k3r.de
 
 Modern Promod is based on Modern Promod v0.1.6.25!
 
