@@ -1,4 +1,4 @@
-# Modern Promod v0.1.8.01 Final
+# Modern Promod v0.1.8.02
 In this modification, it is a completely new development. With a new menu interface and numerous new weapons.
 
 Modern Promod Readme

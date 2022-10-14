@@ -261,7 +261,8 @@ main()
 	setDvar("eodmp_gameend_1", "eodmp_gameend_1");
 	setDvar("eodmp_gameend_2", "eodmp_gameend_2");
 	setDvar("eodmp_gameend_3", "eodmp_gameend_3");		
-	setDvar("eodmp_gameend_4", "eodmp_gameend_4");	
+	setDvar("eodmp_gameend_4", "eodmp_gameend_4");
+	setDvar("modern_promod_ut2k7",1);	
 
 	// messagecenter
 	setDvar( "promod_mc_enable", 1 ); // [0-1]
